@@ -68,7 +68,7 @@ function Script()
 
 
     TeleportsSection:NewButton("Shop", "!!!", function() -- 500 (MaxValue) | 0 (MinValue)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1911.91187, 0.487505674, 79.6198044, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1881.38843, 0.579674363, 91.4046402, -0.997567892, -8.6269516e-05, -0.0697057694, -8.6269516e-05, 1, -3.01040245e-06, 0.0697057694, 3.01040245e-06, -0.997567892)
     end)
 
 
