@@ -48,7 +48,7 @@ function Script()
 
 
     TeleportsSection:NewButton("Car Delership", "!!!", function() -- 500 (MaxValue) | 0 (MinValue)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1415.15088, 0.496191025, -135.300171, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1415.40015, 5.54999971, -115.200073, 0, 0, 1, 0, 1, -0, -1, 0, 0)
     end)
 
 
